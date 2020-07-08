@@ -15,8 +15,21 @@ My research interests focus on object detection in images, videos and point clou
 
 
 ### Publications
-
-
+* [AugFPN: Improving Multi-scale Feature Learning for Object Detection](https://openaccess.thecvf.com/content_CVPR_2020/papers/Guo_AugFPN_Improving_Multi-Scale_Feature_Learning_for_Object_Detection_CVPR_2020_paper.pdf)    
+**Chaoxu Guo**, Bin Fan, Qian Zhang, Shiming Xiang, Chunhong Pan  
+CVPR2020
+*	[PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection](https://arxiv.org/pdf/1912.13192.pdf)  
+ShaoShuai Shi, **Chaoxu Guo**, Li Jiang, Zhe Wang, Jianping Shi, Xiaogang Wang, Hongsheng Li  
+CVPR2020
+* [Progressive Sparse Local Attention for Video Object Detection](https://openaccess.thecvf.com/content_ICCV_2019/papers/Guo_Progressive_Sparse_Local_Attention_for_Video_Object_Detection_ICCV_2019_paper.pdf)  
+**Chaoxu Guo**, Bin Fan, Jie Gu, Qian Zhang, Shiming Xiang, Veronique Prinet, Chunhong Pan  
+ICCV2019
+* [Video Object Detection with Locally-Weightd Deformable Neighboors](https://www.aaai.org/ojs/index.php/AAAI/article/view/4871)  
+Zhengkai Jiang, Peng Gao, **Chaoxu Guo**, Qian Zhang, Shiming Xiang, and Chunhong Pan  
+AAAI2019
+* [Pseudo low rank video representation](http://159.226.21.68/bitstream/173211/22783/1/%5BTsingzao%5DPseudo%20low%20rank%20video%20representation.pdf)  
+Tingzhao Yu, Lingfeng Wang, Chaoxu Guo, Huxiang Gu, Shiming Xiang, Chunhong Pan  
+Pattern Recognition, 2019
 
 ### Contact
 gus_guo@outlook.com
