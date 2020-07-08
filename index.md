@@ -28,7 +28,7 @@ ICCV2019
 Zhengkai Jiang, Peng Gao, **Chaoxu Guo**, Qian Zhang, Shiming Xiang, and Chunhong Pan  
 AAAI2019
 * [Pseudo low rank video representation](http://159.226.21.68/bitstream/173211/22783/1/%5BTsingzao%5DPseudo%20low%20rank%20video%20representation.pdf)  
-Tingzhao Yu, Lingfeng Wang, Chaoxu Guo, Huxiang Gu, Shiming Xiang, Chunhong Pan  
+Tingzhao Yu, Lingfeng Wang, **Chaoxu Guo**, Huxiang Gu, Shiming Xiang, Chunhong Pan  
 Pattern Recognition, 2019
 
 ### Contact
