@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/Gus-Guo/Gus-Guo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I obtained my master degree from National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Science in 2020. Before that, I received my bachelor degree in South China University of Technology in 2017.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My research interests focus on object detection in images, videos and point clouds.
 
-### Markdown
+### News
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* We release a new point cloud based object detction codebase [OpenPCDet](https://github.com/open-mmlab/OpenPCDet)!
+* We win the 1st place among all lidar-only methods on three tasks of 3D Object Detection, 3D Object Tracking and 3D Domain Adaption in Waymo Open Challenge!
+* Two papers are accepted by CVPR2020!
+* One papers are accepted by ICCV2019!
+* We win the 3rd place on Instance Segmentation, 2nd place on Panoptic Segmentation in MS COCO2018! Our team are invited to ECCV2018 to give a talk.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Publications
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Contact
+gus_guo@outlook.com
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Gus-Guo/Gus-Guo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
