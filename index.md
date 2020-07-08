@@ -7,10 +7,10 @@ My research interests focus on object detection in images, videos and point clou
 ### News
 
 * We release a new point cloud based object detction codebase [OpenPCDet](https://github.com/open-mmlab/OpenPCDet)!
-* We win the 1st place among all lidar-only methods on three tasks of 3D Object Detection, 3D Object Tracking and 3D Domain Adaption in Waymo Open Challenge!
+* We win the <font color=red >1st place</font> among all lidar-only methods on three tasks of 3D Object Detection, 3D Object Tracking and 3D Domain Adaption in Waymo Open Challenge!
 * Two papers are accepted by CVPR2020!
-* One papers are accepted by ICCV2019!
-* We win the 3rd place on Instance Segmentation, 2nd place on Panoptic Segmentation in MS COCO2018! Our team are invited to ECCV2018 to give a talk.
+* One paper is accepted by ICCV2019!
+* We win the <font color=red >3rd place</font> on Instance Segmentation, <font color=red >2nd place</font> on Panoptic Segmentation in MS COCO2018! Our team are invited to ECCV2018 to give a talk.
 
 
 
