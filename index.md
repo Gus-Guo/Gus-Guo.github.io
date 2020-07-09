@@ -1,26 +1,26 @@
 ## About Me
 
-I obtained my master degree from National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Science in 2020. Before that, I received my bachelor degree in South China University of Technology in 2017.
+I received my master degree from National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Science in 2020. Before that, I received my bachelor degree in South China University of Technology in 2017.
 
 My research interests focus on object detection in images, videos and point clouds.
 
 ### News
 
 * We release a new point cloud based object detction codebase [OpenPCDet](https://github.com/open-mmlab/OpenPCDet)!
-* We win the <font color=red>1st place</font> among all lidar-only methods on three tasks of 3D Object Detection, 3D Object Tracking and 3D Domain Adaption in Waymo Open Challenge!
+* We win the **1st place** among all lidar-only methods on three tasks of 3D Object Detection, 3D Object Tracking and 3D Domain Adaption in Waymo Open Challenge!
 * Two papers are accepted by CVPR2020!
 * One paper is accepted by ICCV2019!
-* We win the <font color=red>3rd place</font> on Instance Segmentation, <font color=red>2nd place</font> on Panoptic Segmentation in MS COCO2018! Our team are invited to ECCV2018 to give a talk.
+* We win the **3rd place** on Instance Segmentation, **2nd place** on Panoptic Segmentation in MS COCO2018! Our team are invited to ECCV2018 to give a talk.
 
 
 
 ### Publications
 * [AugFPN: Improving Multi-scale Feature Learning for Object Detection](https://openaccess.thecvf.com/content_CVPR_2020/papers/Guo_AugFPN_Improving_Multi-Scale_Feature_Learning_for_Object_Detection_CVPR_2020_paper.pdf)    
 **Chaoxu Guo**, Bin Fan, Qian Zhang, Shiming Xiang, Chunhong Pan  
-CVPR2020
+CVPR2020 [code](https://github.com/Gus-Guo/AugFPN)
 *	[PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection](https://arxiv.org/pdf/1912.13192.pdf)  
 ShaoShuai Shi, **Chaoxu Guo**, Li Jiang, Zhe Wang, Jianping Shi, Xiaogang Wang, Hongsheng Li  
-CVPR2020
+CVPR2020 [code](https://github.com/open-mmlab/OpenPCDet)
 * [Progressive Sparse Local Attention for Video Object Detection](https://openaccess.thecvf.com/content_ICCV_2019/papers/Guo_Progressive_Sparse_Local_Attention_for_Video_Object_Detection_ICCV_2019_paper.pdf)  
 **Chaoxu Guo**, Bin Fan, Jie Gu, Qian Zhang, Shiming Xiang, Veronique Prinet, Chunhong Pan  
 ICCV2019
