@@ -1,6 +1,8 @@
+# Chaoxu Guo
+
 ## About Me
 
-My name is Chaoxu Guo. I received my master degree from National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Science in 2020. Before that, I received my bachelor degree in South China University of Technology in 2017.
+I received my master degree from National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Science in 2020. Before that, I received my bachelor degree in South China University of Technology (SCUT) in 2017.
 
 My research interests focus on object detection in images, videos and point clouds.
 
