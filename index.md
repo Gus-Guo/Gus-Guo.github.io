@@ -35,4 +35,5 @@ Pattern Recognition, 2019
 
 ### Contact
 Email: gus_guo@outlook.com
+
 Wechat: Gus_Guo
