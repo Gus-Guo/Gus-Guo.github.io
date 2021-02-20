@@ -34,5 +34,5 @@ Tingzhao Yu, Lingfeng Wang, **Chaoxu Guo**, Huxiang Gu, Shiming Xiang, Chunhong 
 Pattern Recognition, 2019
 
 ### Contact
-gus_guo@outlook.com
-
+Email: gus_guo@outlook.com
+Wechat: Gus_Guo
