@@ -2,9 +2,9 @@
 
 ## About Me
 
-I received my master degree from National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Science in 2020. Before that, I received my bachelor degree in South China University of Technology (SCUT) in 2017.
+I am an algorithm engineer in Alimama, Alibaba Group. I received my master degree from National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Science in 2020. Before that, I received my bachelor degree in South China University of Technology (SCUT) in 2017.
 
-My research interests focus on object detection in images, videos and point clouds.
+My research interests focus on object detection in images, videos and point clouds, and recommendation system.
 
 ### News
 
