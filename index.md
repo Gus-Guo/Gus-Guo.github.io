@@ -1,6 +1,7 @@
-# Chaoxu Guo
+# Chaoxu Guo 
+## [google scholar](https://scholar.google.com/citations?user=SZ7qRZMAAAAJ&hl=zh-CN)
 
-## About Me [google scholar](https://scholar.google.com/citations?user=SZ7qRZMAAAAJ&hl=zh-CN)
+## About Me 
 
 I am an algorithm engineer in Alimama now, Alibaba Group, working on personal creative recommendation, creation of advertisement creatives. I received my master degree from National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Science in 2020. Before that, I received my bachelor degree in South China University of Technology (SCUT) in 2017.
 
