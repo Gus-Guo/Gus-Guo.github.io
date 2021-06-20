@@ -39,10 +39,8 @@ Pattern Recognition, 2019
 
 
 ### Contact
-Google Scholar: [google scholar](https://scholar.google.com/citations?user=SZ7qRZMAAAAJ&hl=zh-CN)
-
-Email: gus_guo@outlook.com
-
+Google Scholar: [google scholar](https://scholar.google.com/citations?user=SZ7qRZMAAAAJ&hl=zh-CN)  
+Email: gus_guo@outlook.com  
 WechatName: Gus_Guo
 
 
