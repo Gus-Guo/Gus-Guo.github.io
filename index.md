@@ -1,5 +1,4 @@
 # Chaoxu Guo 
-## [google scholar](https://scholar.google.com/citations?user=SZ7qRZMAAAAJ&hl=zh-CN)
 
 ## About Me 
 
@@ -38,7 +37,7 @@ Pattern Recognition, 2019
 * [Mgn: Multi-Glimpse Network for Action Recognition](https://scholar.google.com/scholar?oi=bibs&cluster=1789087558551156269&btnI=1&hl=zh-CN)
 **Chaoxu Guo**, Tingzhao Yu, Huxiang Gu, Shiming Xiang, Chunhong Pan, ICASSP 2018
 
-
+### [google scholar](https://scholar.google.com/citations?user=SZ7qRZMAAAAJ&hl=zh-CN)
 ### Contact
 Email: gus_guo@outlook.com
 WechatName: Gus_Guo
