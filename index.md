@@ -34,7 +34,7 @@ AAAI2019
 * [Pseudo low rank video representation](http://159.226.21.68/bitstream/173211/22783/1/%5BTsingzao%5DPseudo%20low%20rank%20video%20representation.pdf)  
 Tingzhao Yu, Lingfeng Wang, **Chaoxu Guo**, Huxiang Gu, Shiming Xiang, Chunhong Pan  
 Pattern Recognition, 2019
-* [Mgn: Multi-Glimpse Network for Action Recognition](https://scholar.google.com/scholar?oi=bibs&cluster=1789087558551156269&btnI=1&hl=zh-CN)
+* [Mgn: Multi-Glimpse Network for Action Recognition](https://scholar.google.com/scholar?oi=bibs&cluster=1789087558551156269&btnI=1&hl=zh-CN).  
 **Chaoxu Guo**, Tingzhao Yu, Huxiang Gu, Shiming Xiang, Chunhong Pan, ICASSP 2018
 
 
