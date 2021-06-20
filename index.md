@@ -17,7 +17,7 @@ My research interests focus on object detection in images, videos and point clou
 
 
 ### Publications
-* [PV-RCNN++: Point-Voxel Feature Set Abstraction With Local Vector Representation for 3D Object Detection](https://arxiv.org/pdf/2102.00463.pdf)
+* [PV-RCNN++: Point-Voxel Feature Set Abstraction With Local Vector Representation for 3D Object Detection](https://arxiv.org/pdf/2102.00463.pdf)   
 Shaoshuai Shi, Li Jiang, Jiajun Deng, Zhe Wang, **Chaoxu Guo**, Jianping Shi, Xiaogang Wang, Hongsheng Li
 * [AugFPN: Improving Multi-scale Feature Learning for Object Detection](https://openaccess.thecvf.com/content_CVPR_2020/papers/Guo_AugFPN_Improving_Multi-Scale_Feature_Learning_for_Object_Detection_CVPR_2020_paper.pdf)    
 **Chaoxu Guo**, Bin Fan, Qian Zhang, Shiming Xiang, Chunhong Pan  
