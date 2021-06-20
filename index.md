@@ -1,10 +1,10 @@
 # Chaoxu Guo 
 
 ## About Me 
-[google scholar](https://scholar.google.com/citations?user=SZ7qRZMAAAAJ&hl=zh-CN)
+
 I am an algorithm engineer in Alimama now, Alibaba Group, working on personal creative recommendation, creation of advertisement creatives. I received my master degree from National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Science in 2020. Before that, I received my bachelor degree in South China University of Technology (SCUT) in 2017.
 
-My research interests focus on object detection in images, videos and point clouds, and recommendation system.
+My research interests focus on object detection in images, videos and point clouds, and recommendation system. 
 
 ### News
 * We release [PV-RCNN++](https://arxiv.org/pdf/2102.00463.pdf)!
@@ -39,7 +39,9 @@ Pattern Recognition, 2019
 
 
 ### Contact
+Google Scholar: [google scholar](https://scholar.google.com/citations?user=SZ7qRZMAAAAJ&hl=zh-CN)
 Email: gus_guo@outlook.com
 
 WechatName: Gus_Guo
+
 
