@@ -37,8 +37,8 @@ Pattern Recognition, 2019
 **Chaoxu Guo**, Tingzhao Yu, Huxiang Gu, Shiming Xiang, Chunhong Pan, ICASSP 2018
 
 ### CodeBase 
-[OpenPcdet](https://github.com/open-mmlab/OpenPCDet)  
-[AugFPN](https://github.com/Gus-Guo/AugFPN)
+[OpenPCDet: An Open-source Toolbox for 3D Object Detection from Point Cloud](https://github.com/open-mmlab/OpenPCDet)  
+[AugFPN: Improving Multi-scale Feature Learning for Object Detection](https://github.com/Gus-Guo/AugFPN)
 
 ### Competition
 Rank 1st among all LiDAR-only methods on three challenge of 3D Detection, 3D Tracking, Domain Adaptation in Waymo Open Dataset Challenge  
