@@ -41,9 +41,9 @@ Pattern Recognition, 2019
 [AugFPN: Improving Multi-scale Feature Learning for Object Detection](https://github.com/Gus-Guo/AugFPN)
 
 ### Competition
-Rank 1st among all LiDAR-only methods on three challenge of 3D Detection, 3D Tracking, Domain Adaptation in Waymo Open Dataset Challenge  
-Rank 2rd in MS COCO 2018 Paoptic Segmentation Track   
-Rank 3rd in MS COCO 2018 Instance Segmentation Track  
+Rank **1st** among all LiDAR-only methods on three challenge of 3D Detection, 3D Tracking, Domain Adaptation in **Waymo Open Dataset Challenge**  
+Rank **2rd** in **MS COCO 2018** Paoptic Segmentation Track   
+Rank **3rd** in **MS COCO 2018** Instance Segmentation Track  
 
 
 ### Contact
