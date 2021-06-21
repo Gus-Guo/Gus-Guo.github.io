@@ -1,4 +1,4 @@
-# Chaoxu Guo 
+# Chaoxu Guo (郭超旭)
 
 ## About Me 
 
