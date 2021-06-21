@@ -2,7 +2,7 @@
 
 ## About Me 
 
-I am an algorithm engineer in Alimama now, Alibaba Group, working on personal creative recommendation, creation of advertisement creatives. I received my master degree from National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Science in 2020. Before that, I received my bachelor degree in South China University of Technology (SCUT) in 2017.
+I am an algorithm engineer in Alimama, Alibaba Group, working on personal creative recommendation, creation of advertisement creatives, especially in types of videos. I received my master degree from National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Science in 2020. Before that, I received my bachelor degree in South China University of Technology (SCUT) in 2017.
 
 My research interests focus on object detection in images, videos and point clouds, and recommendation system. 
 
@@ -13,7 +13,6 @@ My research interests focus on object detection in images, videos and point clou
 * Two papers are accepted by CVPR2020!
 * One paper is accepted by ICCV2019!
 * We win the **3rd place** on Instance Segmentation, **2nd place** on Panoptic Segmentation in MS COCO2018! Our team is invited to ECCV2018 to give a talk.
-
 
 
 ### Publications
@@ -36,6 +35,15 @@ Tingzhao Yu, Lingfeng Wang, **Chaoxu Guo**, Huxiang Gu, Shiming Xiang, Chunhong 
 Pattern Recognition, 2019
 * [Mgn: Multi-Glimpse Network for Action Recognition](https://scholar.google.com/scholar?oi=bibs&cluster=1789087558551156269&btnI=1&hl=zh-CN).  
 **Chaoxu Guo**, Tingzhao Yu, Huxiang Gu, Shiming Xiang, Chunhong Pan, ICASSP 2018
+
+### CodeBase 
+[OpenPcdet](https://github.com/open-mmlab/OpenPCDet)  
+[AugFPN](https://github.com/Gus-Guo/AugFPN)
+
+### Competition
+Rank 1st among all LiDAR-only methods on three challenge of 3D Detection, 3D Tracking, Domain Adaptation in Waymo Open Dataset Challenge  
+Rank 2rd in MS COCO 2018 Paoptic Segmentation Track   
+Rank 3rd in MS COCO 2018 Instance Segmentation Track  
 
 
 ### Contact
