@@ -2,7 +2,7 @@
 
 ## About Me 
 
-I am an algorithm engineer in Alimama, Alibaba Group, working on personal creative recommendation, creation of advertisement creatives, especially in types of videos. I received my master degree from National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Science in 2020. Before that, I received my bachelor degree in South China University of Technology (SCUT) in 2017.
+I am an algorithm engineer in TikTok currently, focus on image and video generation. Previously I worked in Alimama, Alibaba Group, working on personal creative recommendation, creation of advertisement creatives, especially in types of videos. I received my master degree from National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Science in 2020. Before that, I received my bachelor degree in South China University of Technology (SCUT) in 2017.
 
 My research interests focus on object detection in images, videos and point clouds, and recommendation system. 
 
